@@ -9,7 +9,8 @@
 - Deep Learning Based Language Models:
 
   - [Recurrent Neural Networks (RNN)](../4-deep-learning-based-language-models/4.2-rnn.ipynb) &rarr; [IMDB_Dataset.csv](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-  - [LSTM (Long Short-Term Memory)](../4-deep-learning-based-language-models/4.3-lstm.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://www.kaggle.com/datasets/va6573/daily-dialog-clean)
+  - [Long Short-Term Memory (LSTM)](../4-deep-learning-based-language-models/4.3-lstm.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://www.kaggle.com/datasets/va6573/daily-dialog-clean)
 
 - Basic NLP:
-  - - [Text Classification)](../5-basic-nlp/5.0-text-classification.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+  - [Text Classification](../5-basic-nlp/5.0-text-classification.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+  - [Sentiment Analysis](../5-basic-nlp/5.5-sentiment-analysis.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://raw.githubusercontent.com/pycaret/pycaret/master/datasets/amazon.csv)
