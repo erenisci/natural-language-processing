@@ -44,7 +44,7 @@ Welcome to the **NLP-Learning** repository! This repository serves as a comprehe
    - Text Summarization
 8. [Models and Tools](#models-and-tools)
    - GPT & Gemini
-   - Pipeline, Actions, Functions
+   - Pipelines, Actions, Functions
    - RAG (Retrieval-Augmented Generation)(#rag-retrieval-augmented-generation)
    - HuggingFace
    - OLLAMA, OpenWebUI, LangChain
@@ -214,7 +214,7 @@ Deep learning models have revolutionized NLP, as they can learn complex patterns
 
   - Learn about advanced language models like GPT and Gemini, which are used for various NLP tasks such as text generation, conversation, and summarization.
 
-- ### [Pipeline, Actions, Functions](7-models-and-tools/7.1-pipeline-actions-functions.ipynb)
+- ### [Pipelines, Actions, Functions](7-models-and-tools/7.1-pipelines-actions-functions/7.1.0-pipelines-actions-functions.ipynb)
 
   - This section teaches you how to set up an NLP pipeline and create reusable actions and functions for different tasks.
 
