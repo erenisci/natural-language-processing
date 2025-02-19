@@ -12,5 +12,6 @@
   - [Long Short-Term Memory (LSTM)](../4-deep-learning-based-language-models/4.3-lstm.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://www.kaggle.com/datasets/va6573/daily-dialog-clean)
 
 - Basic NLP:
+
   - [Text Classification](../5-basic-nlp/5.0-text-classification.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
   - [Sentiment Analysis](../5-basic-nlp/5.5-sentiment-analysis.ipynb) &rarr; [Dail_Dialog_Dataset.csv](https://raw.githubusercontent.com/pycaret/pycaret/master/datasets/amazon.csv)
