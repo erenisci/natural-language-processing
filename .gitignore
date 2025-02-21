@@ -1,2 +1,4 @@
 *.env
 data/*.csv
+7-models-and-tools/7.3-huggingface/trainer_results
+7-models-and-tools/7.3-huggingface/fine_tuned_model
