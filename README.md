@@ -47,7 +47,9 @@ Welcome to the **NLP-Learning** repository! This repository serves as a comprehe
    - Pipelines, Actions, Functions
    - RAG (Retrieval-Augmented Generation)(#rag-retrieval-augmented-generation)
    - HuggingFace
-   - OLLAMA, OpenWebUI, LangChain
+   - OpenWebUI
+   - LangChain
+   - Ollama
 9. [Usage](#usage)
 10. [Contributing](#contributing)
 11. [License](#license)
@@ -218,17 +220,25 @@ Deep learning models have revolutionized NLP, as they can learn complex patterns
 
   - This section teaches you how to set up an NLP pipeline and create reusable actions and functions for different tasks.
 
-- ### [RAG (Retrieval-Augmented Generation)](7-models-and-tools/7.2-rag.ipynb)
+- ### [RAG (Retrieval-Augmented Generation)](7-models-and-tools/7.2-rag/7.2.0-rag.ipynb)
 
   - RAG combines information retrieval with text generation, allowing models to use external knowledge for tasks like question answering.
 
-- ### [HuggingFace](7-models-and-tools/7.3-huggingface.ipynb)
+- ### [HuggingFace](7-models-and-tools/7.3-huggingface/7.3.0-huggingface.ipynb)
 
   - HuggingFace provides state-of-the-art models and tools for NLP - tasks. Learn how to use their pre-trained models for various NLP applications.
 
-- ### [OLLAMA, OpenWebUI, LangChain](7-models-and-tools/7.4-ollama-openwebui-langchain.ipynb)
+- ### [OpenWebUI](7-models-and-tools/7.4-openwebui/7.4.0-openwebui.ipynb)
 
-  - These tools allow you to integrate and deploy NLP models in different environments. Explore how to use these platforms to build applications.
+  - OpenWebUI provides a web-based user interface for interacting with language models, enabling users to easily work with them through a browser interface.
+
+- ### [LangChain](7-models-and-tools/7.5-langchain/7.5.0-langchain.ipynb)
+
+  - LangChain connects language models with external data sources and helps build complex applications, such as question-answering systems, recommendation engines, or other data-driven NLP tasks.
+
+- ### [Ollama](7-models-and-tools/7.6-ollama/7.6.0-ollama.ipynb)
+
+  - OLLAMA allows easy integration of language models into applications, making it simple to deploy models in various production environments.
 
 ---
 
