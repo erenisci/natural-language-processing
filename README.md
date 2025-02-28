@@ -45,7 +45,7 @@ Welcome to the **NLP-Learning** repository! This repository serves as a comprehe
 8. [Models and Tools](#models-and-tools)
    - GPT & Gemini
    - Pipelines, Actions, Functions
-   - RAG (Retrieval-Augmented Generation)(#rag-retrieval-augmented-generation)
+   - RAG (Retrieval-Augmented Generation)
    - HuggingFace
    - OpenWebUI
    - LangChain
